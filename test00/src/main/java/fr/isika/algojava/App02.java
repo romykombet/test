@@ -9,6 +9,8 @@ package fr.isika.algojava;
 
 //Je rajoute autre chose MAIN **********
 
+//ENCORE UNE MODIF MAIS CETTE FOIS SUR TESTIN !!
+
 import java.util.Random;
 import java.util.Scanner;
 
