@@ -2,12 +2,16 @@ package fr.isika.algojava;
 
 // MAIN
 // Modif sur la nouvelle branche testing
-// Modif Romy 
+// Modif Romy
+
+// je rajoute une modif ici 
+// et une autre ici : modif2
 
 import java.util.Random;
 import java.util.Scanner;
 
 public class App02 {
+
 
 	public static void main(String[] args) {
 		//		// TODO Auto-generated method stub
