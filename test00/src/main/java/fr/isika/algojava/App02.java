@@ -7,6 +7,8 @@ package fr.isika.algojava;
 // je rajoute une modif ici 
 // et une autre ici : modif2
 
+//Je rajoute autre chose MAIN **********
+
 import java.util.Random;
 import java.util.Scanner;
 
